@@ -3,6 +3,7 @@
 These are some resources I've gathered while trying to learn V8 internals (with a security focus), feel free to fork the repo and make you're own progress 👍.
 
 ## Articles
+- [v8 magle in windows exploitation] (https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-magle)
 - [analyzing-the-google-chrome-v8-cve-2024-0517](https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3)
 - [Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article) ✅
 - [Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
