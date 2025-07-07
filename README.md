@@ -3,7 +3,7 @@
 These are some resources I've gathered while trying to learn V8 internals (with a security focus), feel free to fork the repo and make you're own progress 👍.
 
 ## Articles
-
+- [analyzing-the-google-chrome-v8-cve-2024-0517](https://dev.to/tutorialboy/analyzing-the-google-chrome-v8-cve-2024-0517-out-of-bounds-code-execution-vulnerability-28i3)
 - [Phrack: Exploiting Logic Bugs in JavaScript JIT Engines](http://phrack.org/issues/70/9.html#article) ✅
 - [Phrack: Allocating new exploits](http://phrack.org/issues/71/10.html#article)
 - [Pointer Compression in V8](https://blog.infosectcbr.com.au/2020/02/pointer-compression-in-v8.html) ✅
